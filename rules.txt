@@ -1,4 +1,4 @@
-Capture as many treats as your can before the time runs out.
+Eat as many treats as your can before the time runs out.
 
 Player's mouse controls where a cat is at the bottom of the screen.
 
