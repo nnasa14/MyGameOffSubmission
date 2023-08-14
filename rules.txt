@@ -1,0 +1,8 @@
+Capture as many treats as your can before the time runs out.
+
+Player's mouse controls where a cat is at the bottom of the screen.
+
+Treats and bugs will fall from the sky. To gain more points, the player should aim to eat the treats
+and avoid the bugs.
+
+The higher the difficulty level, the faster the items will rain down. 
